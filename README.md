@@ -1,16 +1,16 @@
-# Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models
+# Transformers Learn to Achieve Second-Order Convergence Rates for In-Context Linear Regression
 
-This is an official repository for our paper, [Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models](https://arxiv.org/abs/2310.17086).
+This is an official repository for our paper, [Transformers Learn to Achieve Second-Order Convergence Rates for In-Context Linear Regression](https://arxiv.org/abs/2310.17086).
 
 
 ```bibtex
-@misc{fu2023transformers,
-    title={Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models}, 
-    author={Deqing Fu and Tian-Qi Chen and Robin Jia and Vatsal Sharan},
-    year={2023},
-    eprint={2310.17086},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+@inproceedings{
+    fu2024transformers,
+    title={Transformers Learn to Achieve Second-Order Convergence Rates for In-Context Linear Regression},
+    author={Deqing Fu and Tian-qi Chen and Robin Jia and Vatsal Sharan},
+    booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+    year={2024},
+    url={https://openreview.net/forum?id=L8h6cozcbn}
 }
 ```
 
